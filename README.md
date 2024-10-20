@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a graduate student majoring in computer science on ECNU.
-I'm currently learning Data Science,ML,DL.
-My email: 51275901079@stu.encu.edu.cn
-My hobbies: 🏸🎾🏊‍♂️🏃‍♂️🎸
-I'm interested in learning languages: Japanese, Spanish, and Korean.
+- 👨‍🎓I'm a graduate student majoring in computer science on ECNU.
+- 🤔I'm currently learning Data Science,ML,DL.
+- 📧My email: 51275901079@stu.encu.edu.cn
+- My hobbies: 🏸 🎾 🏊‍♂️ 🏃‍♂️ 🎸
+- I'm interested in learning languages: Japanese, Spanish, and Korean.
